@@ -1,0 +1,1 @@
+This project contains a cleaned retail dataset and data analysis notebook. The dataset was checked for missing values, duplicate records, and incorrect data types. The data was cleaned and saved for further analysis.
